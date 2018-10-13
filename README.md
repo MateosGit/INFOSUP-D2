@@ -1,6 +1,6 @@
 # INFOSUP EPITA
 
-Ce git contient tout les cours, td et exercices de l'année INFOSUP EPITA 2018-2019 de la classe D2.
+Ce git contient tout les cours, td et exercices de l'année INFOSUP EPITA 2018-2019
 
 
 ## Liens utiles
